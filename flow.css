@@ -187,6 +187,10 @@ table.flow32 {
     background-image: url('Node_I.png');
 }
 
+.node.I.merge-left-J {
+    background-image: url('Node_I_Left_J.png');
+}
+
 .node.J {
     background-image: url('Node_J.png');
 }
@@ -283,6 +287,10 @@ table.flow32 {
     background-image: url('Pass_D.png');
 }
 
+.pass-J {
+    background-image: url('Pass_J.png');
+}
+
 .pass-M {
     background-image: url('Pass_M.png');
 }
@@ -353,6 +361,10 @@ table.flow32 {
 
 .split-right.I {
     background-image: url('Split_Right_I.png');
+}
+
+.split-right.J {
+    background-image: url('Split_Right_J.png');
 }
 
 .split-right.M {
