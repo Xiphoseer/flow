@@ -80,6 +80,10 @@ table.flow32 {
     background-image: url('Start_D_Left_A.png');
 }
 
+.start.G {
+    background-image: url('Start_G.png');
+}
+
 .start.G.merge-right-E {
     background-image: url('Start_G_Right_E.png');
 }
@@ -169,6 +173,11 @@ table.flow32 {
 
 .node.F {
     background-image: url('Node_F.png');
+}
+
+
+.node.F.merge-left-G {
+    background-image: url('Node_F_Left_G.png');
 }
 
 .node.G {
