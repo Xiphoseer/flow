@@ -272,6 +272,10 @@ table.flow32 {
     background-image: url('Line_J_Pass_B.png');
 }
 
+.line.J.pass-M {
+    background-image: url('Line_J_Pass_M.png');
+}
+
 .line.K {
     background-image: url('Line_K.png');
 }
